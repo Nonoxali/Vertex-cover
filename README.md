@@ -3,6 +3,7 @@ MALLET MATHIS
 VIGNE THOMAS
 
 This algorithm accepts graphs stored in either matrix or adjacency list format.
+We wish to thank Pierre Popineau for the france.gr graph data and overseeeing the project in 2020. 
 
 I) QUICK USE OF THE ALGORITHM
 
@@ -40,3 +41,4 @@ Write "printsolved(lobjr, CPS_perfect(GRAPH)[0])" in the interpreter where GRAPH
 
 IV) BONUS
 To print a map of metropolitan France and its 226 largest cities, simply execute the second part of the couvsommet.py program. Just modify the PATH0 variable to the one where the france.gr file provided in the zip is stored.
+
