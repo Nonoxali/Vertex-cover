@@ -4,11 +4,11 @@ VIGNE THOMAS
 
 This algorithm accepts graphs stored in either matrix or adjacency list format.
 
-I) QUICK USAGE OF THE ALGORITHM
+I) QUICK USE OF THE ALGORITHM
 
 Simply execute the program and use the solve_general(GRAPH) function in the interpreter, which will solve the vertex cover problem and display the answer in a separate window. (GRAPH is a matrix or adjacency list.)
 
-II) USAGING THE INTERFACE
+II) USING THE INTERFACE
 
 It is also possible to use the program's interface to quickly access stored graph resolutions.
 
