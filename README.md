@@ -1,6 +1,3 @@
-BLATTNER ROMAIN
-MALLET MATHIS
-VIGNE THOMAS
 
 This algorithm accepts graphs stored in either matrix or adjacency list format.
 We wish to thank Pierre Popineau for the france.gr graph data and overseeeing the project in 2020. 
